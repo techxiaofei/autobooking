@@ -1,0 +1,11 @@
+{
+  "query_interval": 5,
+  "query_count": 3600,
+  "need_email": true,
+  "from_email": "your email address",
+  "to_email": "your email address",
+  "subject": "slot",
+  "smtp": "smtp.qq.com",
+  "port": 587,
+  "password": "jejkgpxxotttcacb"
+}
